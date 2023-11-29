@@ -1,0 +1,23 @@
+class purevsurengiin_tech:
+    def display_menu(self):
+        print("Welcome to the Vending Machine!")
+        print("1. Show available items")
+        print("2. Purchase an item")
+        print("3. Exit")
+        print("5. sell an item")
+    def _init__(self):
+        self.items = {
+                 def availableitems_menu(self):
+        self.available = {
+                 def availableitems_menu(self):
+        self.available = {
+            '1': {'name': 'setup', 'price': 400-6000, 'quantity': 30},
+            '2': {'name': 'pc', 'price': 300-3500, 'quantity': 89},                              
+            '3': {'name': 'monitor', 'price':100-600, 'quantity:89'}                                  
+            
+
+                }'5': {'name': 'mouse', 'price': 5-200, 'quantity': 38},
+            '6': {'name': 'headset', 'price': 50-300, 'quantity': 23}                               
+
+ 
+print("Invalid selection. Please choose a valid item.")
